@@ -4,4 +4,4 @@ print("This is a sample script!")
 # Simple scatter plot
 x <- c(1, 2, 3, 4, 5)
 y <- c(2, 4, 6, 8, 10)
-plot(x, y, main="Scatter Plot", xlab="X-axis", ylab="Y-axis", col="blue", pch=19)
+plot(x, y, main="Scatter Plot", xlab="X-axis", ylab="Y-axis", col="red", pch=19)
